@@ -1,42 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
 <channel>
-    <title>Test</title>
-    <link>https://www.zdf.de/rss/podcast/video/zdf/wissen/frag-den-lesch</link>
-	<language>de-de</language>
-	<copyright>Copyright Zweites Deutsches Fernsehen, ZDF</copyright>
-	<itunes:subtitle></itunes:subtitle>
-	<itunes:author>ZDFde</itunes:author>
-	<itunes:summary>Harald Lesch beantwortet die gro&#223;en und kleinen Fragen der Physik.</itunes:summary>
-	<itunes:owner>
-		<itunes:name>ZDF</itunes:name>
-		<itunes:email>webmaster@zdf.de</itunes:email>
-    </itunes:owner>
-	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="http://module.zdf.de/podcasts/frag-den-lesch_1400x1400.jpg" />
-	<itunes:category text="TV &amp; Film"/>
-		<item>
-        <title>Reise zu den Sternen</title>
-		<itunes:author>ZDFde</itunes:author>
-		<itunes:subtitle></itunes:subtitle>
-		<itunes:summary>Es gibt viele fantasievolle Namen f&#252;r Objekte und Ph&#228;nomene im All: Wei&#223;e Zwerge, Rote Riesen, Cepheiden, Quasare, Pulsare.</itunes:summary>
-		<link>https://www.zdf.de/wissen/frag-den-lesch/reise-zu-den-sternen-102.html</link>
-		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/16/04/160424_fdl216_reise_zu_sternen_lek/4/160424_fdl216_reise_zu_sternen_lek_446k_p20v12.mp4" length="51730461" type="video/mp4"/>
-		<guid>https://www.zdf.de/uri/vcms_beitrag_2720170</guid>
-		<pubDate>Wed, 10 Jun 2020 05:40:00 +0200</pubDate>
-		<itunes:duration>912</itunes:duration>
-    </item>
-		<item>
-        <title>Elektrosmog ist &#252;berall</title>
-		<itunes:author>ZDFde</itunes:author>
-		<itunes:subtitle></itunes:subtitle>
-		<itunes:summary>Viele Menschen sind &#252;berzeugt: Elektrosmog macht krank. Was wissen wir von elektromagnetischen Wellen, die uns &#252;berall umgeben und denen wir nicht entgehen k&#246;nnen?</itunes:summary>
-		<link>https://www.zdf.de/wissen/frag-den-lesch/elektrosmog-ist-ueberall-100.html</link>
-		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/04/170409_sendung_lek/2/170409_sendung_lek_1496k_p20v13.mp4" length="168075267" type="video/mp4"/>
-		<guid>https://www.zdf.de/uri/5a73621f-cfca-45e9-8846-f50bda81cdfc</guid>
-		<pubDate>Mon, 18 May 2020 04:30:00 +0200</pubDate>
-		<itunes:duration>898</itunes:duration>
-    </item>
-		
-	</channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+</channel>
+
 </rss>
