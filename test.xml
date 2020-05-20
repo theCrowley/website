@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>Frag den Lesch (VIDEO)</title>
+    <link>https://www.zdf.de/rss/podcast/video/zdf/wissen/frag-den-lesch</link>
+	<language>de-de</language>
+	<copyright>Copyright Zweites Deutsches Fernsehen, ZDF</copyright>
+	<itunes:subtitle></itunes:subtitle>
+	<itunes:author>ZDFde</itunes:author>
+	<itunes:summary>Harald Lesch beantwortet die gro&#223;en und kleinen Fragen der Physik.</itunes:summary>
+	<itunes:owner>
+		<itunes:name>ZDF</itunes:name>
+		<itunes:email>webmaster@zdf.de</itunes:email>
+    </itunes:owner>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://module.zdf.de/podcasts/frag-den-lesch_1400x1400.jpg" />
+	<itunes:category text="TV &amp; Film"/>
+		<item>
+        <title>Reise zu den Sternen</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Es gibt viele fantasievolle Namen f&#252;r Objekte und Ph&#228;nomene im All: Wei&#223;e Zwerge, Rote Riesen, Cepheiden, Quasare, Pulsare.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/reise-zu-den-sternen-102.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/16/04/160424_fdl216_reise_zu_sternen_lek/4/160424_fdl216_reise_zu_sternen_lek_446k_p20v12.mp4" length="51730461" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/vcms_beitrag_2720170</guid>
+		<pubDate>Wed, 10 Jun 2020 05:40:00 +0200</pubDate>
+		<itunes:duration>912</itunes:duration>
+    </item>
+		<item>
+        <title>Elektrosmog ist &#252;berall</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Viele Menschen sind &#252;berzeugt: Elektrosmog macht krank. Was wissen wir von elektromagnetischen Wellen, die uns &#252;berall umgeben und denen wir nicht entgehen k&#246;nnen?</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/elektrosmog-ist-ueberall-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/04/170409_sendung_lek/2/170409_sendung_lek_1496k_p20v13.mp4" length="168075267" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/5a73621f-cfca-45e9-8846-f50bda81cdfc</guid>
+		<pubDate>Mon, 18 May 2020 04:30:00 +0200</pubDate>
+		<itunes:duration>898</itunes:duration>
+    </item>
+		<item>
+        <title>TestAll77: Voyager</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Harald Lesch erz&#228;hlt von Voyager-Sonden und macht uns begreiflich, wie unglaublich gro&#223; das Universum und wie unvorstellbar weit entfernt die n&#228;chsten erd&#228;hnlichen Planeten sind.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/botschafter-im-all-voyager-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/09/170910_sendung_voyager_lek/3/170910_sendung_voyager_lek_1496k_p20v13.mp4" length="163792991" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/b7499e2f-4cba-44a9-9125-9a9e051489e9</guid>
+		<pubDate>Mon, 20 Apr 2020 04:45:00 +0200</pubDate>
+		<itunes:duration>875</itunes:duration>
+    </item>
+		<item>
+        <title>Apropos Klima: Die Wolken gehen neue Wege</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Die Jetstreams, die st&#228;rksten nat&#252;rlichen Winde auf unserem Globus, waren lange eine verl&#228;ssliche Gr&#246;&#223;e. Der Jetstream-G&#252;rtel verschiebt sich zwar im Jahresverlauf in Nord-S&#252;d-Richtung.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/apropos-klima-die-wolken-gehen-neue-wege-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/02/170226_sendung_lek/2/170226_sendung_lek_1496k_p20v13.mp4" length="165548838" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/84ac22b8-380e-4935-b776-6e93baab1255</guid>
+		<pubDate>Sun, 19 Apr 2020 02:55:00 +0200</pubDate>
+		<itunes:duration>883</itunes:duration>
+    </item>
+		<item>
+        <title>Die Krux mit der W&#228;rme</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Energie kann sich nicht &quot;in Luft aufl&#246;sen&quot;, sie bleibt erhalten - nur ihre Form verwandelt sich. Der &quot;Energieerhaltungssatz&quot; mag bei vielen noch aus der Schulzeit in Erinnerung sein.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/die-krux-mit-der-waerme-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/16/12/161211_sendung_lek/2/161211_sendung_lek_1496k_p20v13.mp4" length="169402619" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/555e7607-d264-4d41-9885-c792243b93ea</guid>
+		<pubDate>Mon, 30 Mar 2020 04:20:00 +0200</pubDate>
+		<itunes:duration>905</itunes:duration>
+    </item>
+		<item>
+        <title>Die Entstehung der Elemente</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Harald Lesch nimmt die Zuschauer dieses Mal mit auf eine Reise ins Universum. Wie viele besondere Umst&#228;nde mussten zusammenkommen, um eine Welt hervorzubringen, wie wir sie kennen?</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/die-entstehung-der-elemente-104.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/02/170205_sendung2_lek/4/170205_sendung2_lek_1496k_p20v13.mp4" length="170664489" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/67a857b2-fb3c-45a8-8642-88bf64a4bc45</guid>
+		<pubDate>Sun, 29 Mar 2020 05:55:00 +0200</pubDate>
+		<itunes:duration>914</itunes:duration>
+    </item>
+		<item>
+        <title>Klimaerw&#228;rmung: Sind zwei Grad wirklich zu viel?</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Wie kommen Experten dazu, zwei Grad als anzustrebendes Ziel f&#252;r die globale Erw&#228;rmung zu definieren? Ein Streifzug durch wissenschaftliche, politische wie philosophische Argumentationen.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/klimaerwaermung-sind-zwei-grad-wirklich-zu-viel-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/11/171105_2_grad_zu_viel_lek/3/171105_2_grad_zu_viel_lek_1496k_p20v13.mp4" length="163930359" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/1282d349-2b69-4e9c-91e9-11db5d88569c</guid>
+		<pubDate>Tue, 24 Mar 2020 03:30:00 +0100</pubDate>
+		<itunes:duration>877</itunes:duration>
+    </item>
+		<item>
+        <title>Existiert Zukunft?</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Woher kommt die Zeit f&#252;r Gegenwart und Vergangenheit? Ist sie vielleicht irgendwann aufgebraucht? Fragen, die Harald Lesch von Zuschauern erreichen und ihn elektrisieren.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/existiert-zukunft-104.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/13/12/131208_fdl139_zukunft_lek_446k_p20v11.mp4" length="53399267" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/4796be4e-8e8a-4e9a-b1f3-13865aae33f2</guid>
+		<pubDate>Tue, 17 Mar 2020 05:40:00 +0100</pubDate>
+		<itunes:duration>866</itunes:duration>
+    </item>
+		<item>
+        <title>Wird die Erde kalt?</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Die Urerde war gl&#252;hend hei&#223;. Die Kontinentalplatten konnten sich erst bilden, als die Kruste allm&#228;hlich abk&#252;hlte.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/wird-die-erde-kalt-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/04/170402_sendung_lek/3/170402_sendung_lek_1496k_p20v13.mp4" length="174609119" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/85da8fe4-9e4c-4826-9120-2d58fe0d9cbe</guid>
+		<pubDate>Sat, 15 Feb 2020 05:15:00 +0100</pubDate>
+		<itunes:duration>932</itunes:duration>
+    </item>
+		<item>
+        <title>Kollision im Universum</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Die Beobachtung, dass ein Stern Kurs auf unser Sonnensystem genommen hat, elektrisiert Experten. &quot;Gliese 710&quot; fliegt, glaubt man den Berechnungen, auf unsere Sonne zu.</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/kollision-im-universum-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/03/170326_sendung_lek/2/170326_sendung_lek_1496k_p20v13.mp4" length="164901125" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/75328237-6b5a-4fd2-95bd-cd486c1de856</guid>
+		<pubDate>Mon, 10 Feb 2020 04:40:00 +0100</pubDate>
+		<itunes:duration>882</itunes:duration>
+    </item>
+		<item>
+        <title>Suche nach dem Mittelpunkt des Universums</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Die Frage eines Zuschauers veranlasst Harald Lesch zu einer Gratwanderung zwischen Astrophysik und Philosophie: Wenn sich das Universum ausdehnt, wo hinein dehnt es sich dann aus?</itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/suche-nach-dem-mittelpunkt-des-universums-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/17/03/170319_sendung_lek/3/170319_sendung_lek_1496k_p20v13.mp4" length="164962464" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/a967ecf2-b6b0-4f62-be5f-a5dde40dadbb</guid>
+		<pubDate>Mon, 20 Jan 2020 04:45:00 +0100</pubDate>
+		<itunes:duration>882</itunes:duration>
+    </item>
+		<item>
+        <title>Der Mond als Klimaretter? Besser nicht!</title>
+		<itunes:author>ZDFde</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:summary>Lie&#223;e sich der Mond als Klimaretter nutzen? </itunes:summary>
+		<link>https://www.zdf.de/wissen/frag-den-lesch/der-mond-als-klimaretter-besser-nicht-100.html</link>
+		<enclosure url="http://podfiles.zdf.de/podcast/zdf_podcasts/16/12/161204_sendung_lek/2/161204_sendung_lek_1496k_p20v13.mp4" length="163728873" type="video/mp4"/>
+		<guid>https://www.zdf.de/uri/69c53ae0-58da-4abe-b956-164302f5a92c</guid>
+		<pubDate>Mon, 13 Jan 2020 04:40:00 +0100</pubDate>
+		<itunes:duration>871</itunes:duration>
+    </item>
+	</channel>
+</rss>
